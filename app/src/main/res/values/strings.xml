@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">Magic Eight Ball</string>
+    <string name="app_name">JESSIE 8-gen AI</string>
+    <string name="button_helpme">Ask Jesse!</string>
+    <string name="ball_images">Thinking Ball</string>
+    <string name="hint_txt">How may i help your?</string>
 </resources>
